@@ -1,0 +1,73 @@
+body {
+    background-color: #DDFFBC;
+    color: #52734D;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    color: #52734D;
+    text-align: center;
+    line-height: 59px;
+
+    padding: 0 64px;
+    margin: 0;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+button[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  div {
+    border-radius: 5px;
+    display: block;
+    background-color:#91C788;
+    padding: 15px;
+  }
+
+  .center{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+  }
+
+  h2 {
+    font-size: 32px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    color: #fcfcfc;
+    text-align: center;
+    line-height: 40px;
+    padding: 0 64px;
+    margin: 0;
+}
+
+.container {
+  width: 60%;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 15px;
+  padding: 15px;
+}
